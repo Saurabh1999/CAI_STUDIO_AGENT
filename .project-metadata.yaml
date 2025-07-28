@@ -18,7 +18,7 @@ runtimes:
   - editor: PBJ Workbench
     kernel: Python 3.10
     edition: Standard
-    version: "2025.06"
+    version: "2025.07"
 
 tasks:
   - type: run_session
