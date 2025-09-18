@@ -86,7 +86,6 @@ tasks:
     environment_variables:
       TASK_TYPE: START_APPLICATION
     runtimes:
-      runtimes:
-        - editor: PBJ Workbench
-          kernel: Python 3.10
-          edition: Standard
+      - editor: PBJ Workbench
+        kernel: Python 3.10
+        edition: Standard
